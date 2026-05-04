@@ -1,2 +1,2 @@
-# DataBase
-<!-- <img width="350" height="400" alt="database" src="https://github.com/user-attachments/assets/09127e1c-fd2b-4afe-9c7e-76ec8b6971e3" /> -->
+# DataBase Menggunakan Hive
+<img width="375" height="593" alt="database2" src="https://github.com/user-attachments/assets/de158a05-5487-4c90-af36-96e7b04a524d" />
